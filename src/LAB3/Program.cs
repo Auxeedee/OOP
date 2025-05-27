@@ -22,8 +22,8 @@ namespace LAB_3
         //Тут виконуєте завдання №2
         private static void Task2()
         {
-            int userAge = 20; // Назва змінної у CamelCase
-            string userName = "Андрій"; // Назва змінної у CamelCase
+            int userAge = 20; 
+            string userName = "Андрій"; 
             Console.WriteLine("Привіт, " + userName + "! Твій вік: " + userAge);
         }
 
